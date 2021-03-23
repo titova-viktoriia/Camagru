@@ -1,0 +1,21 @@
+html {
+    position: relative;
+}
+
+.pagination {
+    position: center;
+    margin-left: 10%;
+}
+
+.menu {
+    display: none;
+}
+
+.row {
+    position: center;
+}
+
+.line {
+    position: relative;
+    height: 10%;
+}

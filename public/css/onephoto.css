@@ -1,0 +1,31 @@
+#users-photo, #users-info {
+    display: inline-block;
+    margin-top: -2%;
+}
+
+#users-photo {
+    width: 10em;
+}
+
+#users-info {
+    margin-left: 5%;
+}
+
+#row-container {
+    position: center;
+    margin-left: 20%;
+}
+
+#one_photo {
+    margin-top: 0;
+    width: 100%;
+    max-width: 500px;
+}
+
+.likes {
+    padding-top: 1%;
+}
+
+#comment {
+    width: 100%;
+}
