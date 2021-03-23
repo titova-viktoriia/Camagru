@@ -3,6 +3,17 @@ Cайт, позволяющий пользователям зарегистри�
 
 Стек технологий: PHP, Mysql, MVC, HTML, JS.
 
+ЗАПУСК:
+
+ cd config/
+ 
+ php setup.php
+ 
+ php -S localhost:8888
+ 
+ 
+Настройка подключения к БД в config/database.php
+
 ![Снимок экрана от 2021-03-23 19-25-37](https://user-images.githubusercontent.com/63505123/112181880-dae77f00-8c0d-11eb-8dd3-bfa81a64008a.png)
 ![Снимок экрана от 2021-03-23 19-25-45](https://user-images.githubusercontent.com/63505123/112181908-e0dd6000-8c0d-11eb-8fdc-c3065e936b92.png)
 ![Снимок экрана от 2021-03-23 19-26-23](https://user-images.githubusercontent.com/63505123/112181919-e5097d80-8c0d-11eb-9940-12602ae74fab.png)
